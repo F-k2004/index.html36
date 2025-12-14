@@ -7,7 +7,7 @@
   html,body{
     margin:0;
     overflow:hidden;
-    background:#000814;
+    ackground:#000814;
     font-family:sans-serif;
   }
   #info{
