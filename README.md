@@ -6,7 +6,7 @@
 <style>
   html,body{
     margin:0;
-    overflow:hidden;
+    boverflow:hidden;
     ackground:#000814;
     font-family:sans-serif;
   }
